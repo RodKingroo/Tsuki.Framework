@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "EmptyWindow/1.0.0": {
+        "dependencies": {
+          "Tsuki.Framework": "1.0.0"
+        },
+        "runtime": {
+          "EmptyWindow.dll": {}
+        }
+      },
+      "Tsuki.Framework/1.0.0": {
+        "runtime": {
+          "Tsuki.Framework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmptyWindow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tsuki.Framework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
