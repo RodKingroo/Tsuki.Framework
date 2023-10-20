@@ -29,4 +29,4 @@ Future projects
 - **AI Marie Kate** — A project related to the development of its own AI viewer. I can't say anything more :^)
 
 <H2>Note</H2>
-*fork [OpenTK 4.7.6](https://github.com/opentk/opentk/tree/master)
+*fork [OpenTK 4.7.6](https://github.com/opentk/opentk/tree/master) with a rethinking of code, this project, to implement more fine-tuning, projects
