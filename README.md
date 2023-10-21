@@ -25,7 +25,7 @@ Requirements
 Future projects
 ======
 - **Tsuki.Engine** — A video game development game engine based on Tsuki.Framework
-- **Project Tsukihime** — A remaster project of an old game project in the novella genre, Tsukihime (2000) + DLC with the developer Tsuki's own vision.Framework using 3D backgrounds and Live2D capabilities.
+- **Project Tsukihime** — A remaster project of an old game project in the novella genre, Tsukihime (2000) + DLC with the developer's vision Tsuki.Framework using 3D backgrounds and Live2D capabilities.
 - **AI Marie Kate** — A project related to the development of its own AI V-Tuber. I can't say anything more :^)
 
 <H2>Note</H2>
