@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "GLFWTest/1.0.0": {
+        "dependencies": {
+          "Tsuki": "1.0.0"
+        },
+        "runtime": {
+          "GLFWTest.dll": {}
+        }
+      },
+      "Tsuki/1.0.0": {
+        "runtime": {
+          "Tsuki.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GLFWTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tsuki/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -8,7 +8,10 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Platform\" />
+      <Folder Include="Graphics\GLES\" />
+      <Folder Include="Graphics\OpenGL\" />
+      <Folder Include="Platform\Linux\" />
+      <Folder Include="Platform\Windows\" />
       <Folder Include="Utils\" />
     </ItemGroup>
 

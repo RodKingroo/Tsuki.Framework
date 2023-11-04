@@ -15,13 +15,12 @@ namespace Tsuki.Platform.GLFW;
 
 public static class Glfw
 {
-
 #if Windows
-    public const string Library = "glfw3";
+    public const string Library = "glfw3.dll";
 #else
-    public const string Library = "glfw";
+    public const string Library = "libglfw.so.3";
 #endif
-
+    
     static Glfw()
     {
         Init();
@@ -37,6 +36,7 @@ public static class Glfw
     
     [DllImport(Library, EntryPoint = "glfwSetWindowMaximizeCallback")]
     public static extern WindowMaximizedCallback SetWindowMaximizeCallback(Window window, WindowMaximizedCallback cb);
+    
 
     [DllImport(Library, EntryPoint = "glfwSetWindowContentScaleCallback")]
     public static extern WindowContentsScaleCallback SetWindowContentScaleCallback(Window window,
@@ -247,7 +247,7 @@ public static class Glfw
     public static extern void SetInputMode(Window window, InputMode mode, int value);
 
     [DllImport(Library, EntryPoint = "glfwGetMonitorWorkarea")]
-    public static extern void GetMonitorWorkArea(Monitor monitor, out int x, out int y, out int width, out int height);
+    public static extern void GetMonitorWorkArea(IntPtr monitor, out int x, out int y, out int width, out int height);
 
     [DllImport(Library, EntryPoint = "glfwWindowHint")]
     public static extern void WindowHint(Hint hint, int value);

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/sdb1/vsproject/Personal projects/Tsuki-Framework/Tsuki/Tsuki.csproj",
+      "projectUniqueName": "/mnt/sdb1/vsproject/GitHub/Tsuki.Framework/Tsuki/Tsuki.csproj",
       "projectName": "Tsuki",
-      "projectPath": "/mnt/sdb1/vsproject/Personal projects/Tsuki-Framework/Tsuki/Tsuki.csproj",
+      "projectPath": "/mnt/sdb1/vsproject/GitHub/Tsuki.Framework/Tsuki/Tsuki.csproj",
       "packagesPath": "/home/edshiro/.nuget/packages/",
-      "outputPath": "/mnt/sdb1/vsproject/Personal projects/Tsuki-Framework/Tsuki/obj/",
+      "outputPath": "/mnt/sdb1/vsproject/GitHub/Tsuki.Framework/Tsuki/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/edshiro/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
       }
     }
   }
