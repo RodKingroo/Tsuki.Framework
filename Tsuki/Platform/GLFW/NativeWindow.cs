@@ -3,6 +3,7 @@ using System.Drawing;
 using System.Reflection;
 using System.Runtime.InteropServices;
 using Microsoft.Win32.SafeHandles;
+using Tsuki.Graphics.Khronos.Enums;
 using Tsuki.Platform.GLFW.Args;
 using Tsuki.Platform.GLFW.Enums;
 using Tsuki.Platform.GLFW.Structs;

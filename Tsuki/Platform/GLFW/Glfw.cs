@@ -1,6 +1,7 @@
 using System.Reflection;
 using System.Runtime.InteropServices;
 using System.Text;
+using Tsuki.Graphics.Khronos.Enums;
 using Tsuki.Platform.GLFW.Enums;
 
 using Monitor = Tsuki.Platform.GLFW.Structs.Monitor;
@@ -10,6 +11,7 @@ using Image = Tsuki.Platform.GLFW.Structs.Image;
 using VideoMode = Tsuki.Platform.GLFW.Structs.VideoMode;
 using GammaRamp = Tsuki.Platform.GLFW.Structs.GammaRamp;
 using Cursor = Tsuki.Platform.GLFW.Structs.Cursor;
+using Profile = Tsuki.Graphics.Khronos.Enums.Profile;
 
 namespace Tsuki.Platform.GLFW;
 
