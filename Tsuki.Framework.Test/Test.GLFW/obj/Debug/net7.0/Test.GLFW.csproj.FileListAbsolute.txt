@@ -1,0 +1,36 @@
+/mnt/sdb2/JetBrains Project/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/bin/Debug/net7.0/Test.GLFW
+/mnt/sdb2/JetBrains Project/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/bin/Debug/net7.0/Test.GLFW.deps.json
+/mnt/sdb2/JetBrains Project/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/bin/Debug/net7.0/Test.GLFW.runtimeconfig.json
+/mnt/sdb2/JetBrains Project/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/bin/Debug/net7.0/Test.GLFW.dll
+/mnt/sdb2/JetBrains Project/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/bin/Debug/net7.0/Test.GLFW.pdb
+/mnt/sdb2/JetBrains Project/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/bin/Debug/net7.0/Tsuki.Framework.dll
+/mnt/sdb2/JetBrains Project/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/bin/Debug/net7.0/Tsuki.Framework.pdb
+/mnt/sdb2/JetBrains Project/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/obj/Debug/net7.0/Test.GLFW.csproj.AssemblyReference.cache
+/mnt/sdb2/JetBrains Project/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/obj/Debug/net7.0/Test.GLFW.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/sdb2/JetBrains Project/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/obj/Debug/net7.0/Test.GLFW.AssemblyInfoInputs.cache
+/mnt/sdb2/JetBrains Project/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/obj/Debug/net7.0/Test.GLFW.AssemblyInfo.cs
+/mnt/sdb2/JetBrains Project/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/obj/Debug/net7.0/Test.GLFW.csproj.CoreCompileInputs.cache
+/mnt/sdb2/JetBrains Project/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/obj/Debug/net7.0/Test.GLFW.csproj.CopyComplete
+/mnt/sdb2/JetBrains Project/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/obj/Debug/net7.0/Test.GLFW.dll
+/mnt/sdb2/JetBrains Project/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/obj/Debug/net7.0/refint/Test.GLFW.dll
+/mnt/sdb2/JetBrains Project/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/obj/Debug/net7.0/Test.GLFW.pdb
+/mnt/sdb2/JetBrains Project/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/obj/Debug/net7.0/Test.GLFW.genruntimeconfig.cache
+/mnt/sdb2/JetBrains Project/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/obj/Debug/net7.0/ref/Test.GLFW.dll
+/mnt/sdb2/vsproject/GitHub/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/bin/Debug/net7.0/Test.GLFW
+/mnt/sdb2/vsproject/GitHub/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/bin/Debug/net7.0/Test.GLFW.deps.json
+/mnt/sdb2/vsproject/GitHub/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/bin/Debug/net7.0/Test.GLFW.runtimeconfig.json
+/mnt/sdb2/vsproject/GitHub/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/bin/Debug/net7.0/Test.GLFW.dll
+/mnt/sdb2/vsproject/GitHub/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/bin/Debug/net7.0/Test.GLFW.pdb
+/mnt/sdb2/vsproject/GitHub/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/bin/Debug/net7.0/Tsuki.Framework.dll
+/mnt/sdb2/vsproject/GitHub/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/bin/Debug/net7.0/Tsuki.Framework.pdb
+/mnt/sdb2/vsproject/GitHub/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/obj/Debug/net7.0/Test.GLFW.csproj.AssemblyReference.cache
+/mnt/sdb2/vsproject/GitHub/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/obj/Debug/net7.0/Test.GLFW.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/sdb2/vsproject/GitHub/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/obj/Debug/net7.0/Test.GLFW.AssemblyInfoInputs.cache
+/mnt/sdb2/vsproject/GitHub/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/obj/Debug/net7.0/Test.GLFW.AssemblyInfo.cs
+/mnt/sdb2/vsproject/GitHub/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/obj/Debug/net7.0/Test.GLFW.csproj.CoreCompileInputs.cache
+/mnt/sdb2/vsproject/GitHub/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/obj/Debug/net7.0/Test.GLFW.csproj.CopyComplete
+/mnt/sdb2/vsproject/GitHub/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/obj/Debug/net7.0/Test.GLFW.dll
+/mnt/sdb2/vsproject/GitHub/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/obj/Debug/net7.0/refint/Test.GLFW.dll
+/mnt/sdb2/vsproject/GitHub/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/obj/Debug/net7.0/Test.GLFW.pdb
+/mnt/sdb2/vsproject/GitHub/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/obj/Debug/net7.0/Test.GLFW.genruntimeconfig.cache
+/mnt/sdb2/vsproject/GitHub/Tsuki.Framework/Tsuki.Framework.Test/Test.GLFW/obj/Debug/net7.0/ref/Test.GLFW.dll

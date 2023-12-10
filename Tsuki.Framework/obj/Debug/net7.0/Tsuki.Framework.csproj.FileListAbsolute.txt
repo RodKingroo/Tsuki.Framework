@@ -1,0 +1,24 @@
+/mnt/sdb2/JetBrains Project/Tsuki.Framework/Tsuki.Framework/bin/Debug/net7.0/Tsuki.Framework.deps.json
+/mnt/sdb2/JetBrains Project/Tsuki.Framework/Tsuki.Framework/bin/Debug/net7.0/Tsuki.Framework.dll
+/mnt/sdb2/JetBrains Project/Tsuki.Framework/Tsuki.Framework/bin/Debug/net7.0/Tsuki.Framework.pdb
+/mnt/sdb2/JetBrains Project/Tsuki.Framework/Tsuki.Framework/obj/Debug/net7.0/Tsuki.Framework.csproj.AssemblyReference.cache
+/mnt/sdb2/JetBrains Project/Tsuki.Framework/Tsuki.Framework/obj/Debug/net7.0/Tsuki.Framework.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/sdb2/JetBrains Project/Tsuki.Framework/Tsuki.Framework/obj/Debug/net7.0/Tsuki.Framework.AssemblyInfoInputs.cache
+/mnt/sdb2/JetBrains Project/Tsuki.Framework/Tsuki.Framework/obj/Debug/net7.0/Tsuki.Framework.AssemblyInfo.cs
+/mnt/sdb2/JetBrains Project/Tsuki.Framework/Tsuki.Framework/obj/Debug/net7.0/Tsuki.Framework.csproj.CoreCompileInputs.cache
+/mnt/sdb2/JetBrains Project/Tsuki.Framework/Tsuki.Framework/obj/Debug/net7.0/Tsuki.Framework.dll
+/mnt/sdb2/JetBrains Project/Tsuki.Framework/Tsuki.Framework/obj/Debug/net7.0/refint/Tsuki.Framework.dll
+/mnt/sdb2/JetBrains Project/Tsuki.Framework/Tsuki.Framework/obj/Debug/net7.0/Tsuki.Framework.pdb
+/mnt/sdb2/JetBrains Project/Tsuki.Framework/Tsuki.Framework/obj/Debug/net7.0/ref/Tsuki.Framework.dll
+/mnt/sdb2/vsproject/GitHub/Tsuki.Framework/Tsuki.Framework/bin/Debug/net7.0/Tsuki.Framework.deps.json
+/mnt/sdb2/vsproject/GitHub/Tsuki.Framework/Tsuki.Framework/bin/Debug/net7.0/Tsuki.Framework.dll
+/mnt/sdb2/vsproject/GitHub/Tsuki.Framework/Tsuki.Framework/bin/Debug/net7.0/Tsuki.Framework.pdb
+/mnt/sdb2/vsproject/GitHub/Tsuki.Framework/Tsuki.Framework/obj/Debug/net7.0/Tsuki.Framework.csproj.AssemblyReference.cache
+/mnt/sdb2/vsproject/GitHub/Tsuki.Framework/Tsuki.Framework/obj/Debug/net7.0/Tsuki.Framework.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/sdb2/vsproject/GitHub/Tsuki.Framework/Tsuki.Framework/obj/Debug/net7.0/Tsuki.Framework.AssemblyInfoInputs.cache
+/mnt/sdb2/vsproject/GitHub/Tsuki.Framework/Tsuki.Framework/obj/Debug/net7.0/Tsuki.Framework.AssemblyInfo.cs
+/mnt/sdb2/vsproject/GitHub/Tsuki.Framework/Tsuki.Framework/obj/Debug/net7.0/Tsuki.Framework.csproj.CoreCompileInputs.cache
+/mnt/sdb2/vsproject/GitHub/Tsuki.Framework/Tsuki.Framework/obj/Debug/net7.0/Tsuki.Framework.dll
+/mnt/sdb2/vsproject/GitHub/Tsuki.Framework/Tsuki.Framework/obj/Debug/net7.0/refint/Tsuki.Framework.dll
+/mnt/sdb2/vsproject/GitHub/Tsuki.Framework/Tsuki.Framework/obj/Debug/net7.0/Tsuki.Framework.pdb
+/mnt/sdb2/vsproject/GitHub/Tsuki.Framework/Tsuki.Framework/obj/Debug/net7.0/ref/Tsuki.Framework.dll
